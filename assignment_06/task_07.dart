@@ -7,7 +7,7 @@
 // print(operation(4, 6));  // Output: 10
 
 void main() {
-  Function(int, int) operation = chooseOperation("add");
+  Function(int a, int b) operation = chooseOperation("add");
   print(operation(4, 6));
 }
 
