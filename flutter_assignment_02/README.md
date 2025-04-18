@@ -21,6 +21,6 @@ You can check out the UI/UX design here:
 
 ## App Demo
 
-You can watch the demo video by clicking the link below:
+Watch the demo video below to see the app in action:
 
-👉 [Click here to watch the demo video](app_video/demo.mp4)
+https://github.com/user-attachments/assets/6aff867b-7a94-47e9-8c26-1bfcc51a81af
