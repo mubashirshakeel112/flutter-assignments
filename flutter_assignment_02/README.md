@@ -19,8 +19,3 @@ samples, guidance on mobile development, and a full API reference.
 You can check out the UI/UX design here:
 👉 [Design on Figma](https://www.figma.com/design/KOaQUw9OhcNjBkPth114ea/Untitled)
 
-## App Demo
-
-Watch the demo video below to see the app in action:
-
-https://github.com/user-attachments/assets/6aff867b-7a94-47e9-8c26-1bfcc51a81af
